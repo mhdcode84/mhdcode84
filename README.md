@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Mohamad Sajadi  and I'm Frontend From Iran</h2>
+<h1 align="center">Hi 👋, I'm mohamad sajadi</h1>
+<h3 align="center">A passionate frontend developer from Iran</h3>
 
 ###
 
